@@ -1,1 +1,1 @@
-# Minor-Project
+# Automatic-News-Headline-Generator-Nepali
