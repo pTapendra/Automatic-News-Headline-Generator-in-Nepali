@@ -32,3 +32,7 @@ Access this [drive](https://drive.google.com/drive/folders/1xnXEZX0hPsQWPTwOcxlm
 -Subodh Baral
 -Tapendra Pandey
 ```
+## Outcomes
+
+![image](https://user-images.githubusercontent.com/45399994/165993614-98d464fd-2caa-4312-964b-2ee9be21a7d1.png)
+
