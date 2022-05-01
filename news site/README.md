@@ -13,7 +13,7 @@ then generate headlines for it.
 - Python
 - Bootstrap
 
-## Sie View
+## Stie View
 
 ![image](https://user-images.githubusercontent.com/45399994/166152128-a1467b94-7f4d-4595-9cae-4416ac956949.png)
 
