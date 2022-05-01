@@ -1,0 +1,5 @@
+django
+django-allauth
+django-crispy-forms
+django-tinymce
+npttf2utf
