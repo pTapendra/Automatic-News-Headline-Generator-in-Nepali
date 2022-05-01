@@ -27,10 +27,10 @@ Access this [drive](https://drive.google.com/drive/folders/1xnXEZX0hPsQWPTwOcxlm
 
 ## Project By
 ```
--Achyut Burlakoti
--Sijal Baral
--Subodh Baral
--Tapendra Pandey
+- Achyut Burlakoti
+- Sijal Baral
+- Subodh Baral
+- Tapendra Pandey
 ```
 ## Outcomes
 
